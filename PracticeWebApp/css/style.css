@@ -1,0 +1,136 @@
+﻿/*
+*** Primary color:
+
+   shade 0 = #2D4671 = rgb( 45, 70,113) = rgba( 45, 70,113,1) = rgb0(0.176,0.275,0.443)
+   shade 1 = #7689A9 = rgb(118,137,169) = rgba(118,137,169,1) = rgb0(0.463,0.537,0.663)
+   shade 2 = #4D658D = rgb( 77,101,141) = rgba( 77,101,141,1) = rgb0(0.302,0.396,0.553)
+   shade 3 = #152C55 = rgb( 21, 44, 85) = rgba( 21, 44, 85,1) = rgb0(0.082,0.173,0.333)
+   shade 4 = #051838 = rgb(  5, 24, 56) = rgba(  5, 24, 56,1) = rgb0(0.02,0.094,0.22)
+*/
+
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	min-width: 700px;
+}
+
+.clearFloat{
+	clear: both;
+}
+
+/* HEADER */
+header{
+	display: block;
+	background-color: #4D658D;
+    border: 3px solid #4D658D;
+    border-radius: 25px;
+	min-height: 90px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+header h1{
+	padding-left: 20px;
+	padding-bottom: 0;
+	padding-top: 10px;
+	margin-bottom: 0;
+	color: #FFF;
+	font-family: sans-serif;
+}
+
+header h3{
+	padding-left: 40px;
+	padding-bottom: 0;
+	padding-top: 10px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-style: italic;
+	font-family: Lucida Sans Unicode;
+	color: #FFF;
+}
+
+/* NAV */
+nav{
+	margin-bottom: 0;
+	margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+	color: #FFF;
+	font-family: Lucida Sans Unicode;
+    text-decoration: none;
+}
+
+nav a:hover{
+    
+    color: #599bea;
+    text-decoration: underline;
+}
+
+nav a, a:visited{
+    margin: 0 10px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.siteLinks{
+	color: #FFF;
+	text-decoration: none;
+}
+
+#loginForm {
+    background-color: #7689A9;
+    border-radius: 10px;
+    font-size: small;
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    border: 2px groove #7689A9;
+    color: #FFF;
+}
+
+#AccContainer {
+    margin: 15px auto;
+}
+
+#profileContents {
+    padding: 30px 15px;
+    text-align: center;
+}
+
+.txtTransactions {
+    overflow: auto;
+    resize: none;
+}
+
+.totalBal {
+    padding-top: 30px;
+    text-align: center;
+}
+
+/* CONTENT */
+.bodyContainer{
+	margin-top: 0;
+	padding-top: 0;
+	background-color: #4D658D;
+}
+
+
+.content{
+	padding: 10px 30px;
+	min-height: 400px;
+	font-family: Lucida Sans Unicode;
+	background-color: #FFF;
+}
+
+footer{
+	display: block;
+	background-color: #4D658D;
+	margin-bottom: 0;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-top: 5px;
+	font-size: x-small;
+	color: #FFF;
+	font-family: Lucida Sans Unicode;
+}
