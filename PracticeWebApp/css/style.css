@@ -67,7 +67,7 @@ nav a:hover{
     text-decoration: underline;
 }
 
-nav a, a:visited{
+nav a, nav a:visited{
     margin: 0 10px;
     color: #FFF;
     text-decoration: none;
@@ -160,6 +160,7 @@ nav a, a:visited{
     padding: 0 20px;
     margin: 10px auto;
     max-width: 70%;
+    font-size: small;
 }
 
 .comments h4 {
@@ -171,12 +172,21 @@ nav a, a:visited{
     padding-left: 10px;
 }
 
-.likes {
-    float: right;
-    margin-right: 30px;
-    border: 1px solid #dbdbdb;
-    border-radius: 5px;
-    padding: 5px 5px;
+.contactInput {
+    margin: 5px 0;
+    min-width: 60%;
+    font-family: Lucida Sans Unicode;
+    font-size: medium;
+}
+
+.inlineLink a, .inlineLink a:visited{
+    font-family: Lucida Sans Unicode;
+    color: #808080;
+}
+
+#contactForm {
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 .disabled {

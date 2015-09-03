@@ -1,4 +1,5 @@
 ﻿var feedback = function () {
+    
     $(".commentTextarea").keyup(function () {
         var postLength = $(this).val().length;
         var charLeft = 200 - postLength;

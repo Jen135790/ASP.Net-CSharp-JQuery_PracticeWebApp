@@ -22,3 +22,27 @@ F:\Practice Projects\C#\PracticeWebApp\PracticeWebApp\bin\zh-CHT\AjaxControlTool
 F:\Practice Projects\C#\PracticeWebApp\PracticeWebApp\obj\Debug\PracticeWebApp.csprojResolveAssemblyReference.cache
 F:\Practice Projects\C#\PracticeWebApp\PracticeWebApp\obj\Debug\PracticeWebApp.dll
 F:\Practice Projects\C#\PracticeWebApp\PracticeWebApp\obj\Debug\PracticeWebApp.pdb
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\PracticeWebApp.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\PracticeWebApp.pdb
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\AjaxControlToolkit.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\AjaxMin.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\ar\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\cs\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\de\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\es\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\fr\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\he\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\hi\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\it\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\ja\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\ko\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\nl\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\pl\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\pt\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\ru\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\obj\Debug\PracticeWebApp.csprojResolveAssemblyReference.cache
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\obj\Debug\PracticeWebApp.dll
+F:\Projects\AspNet-CSharp-JQuery\PracticeWebApp\obj\Debug\PracticeWebApp.pdb

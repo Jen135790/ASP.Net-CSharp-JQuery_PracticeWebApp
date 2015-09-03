@@ -33,17 +33,17 @@
 			<!-- Content -->
 			<div class="content">
 			    <h1>Feedback</h1>
-                <p>Fill in the form to post your comments. Let us know how we can improve!</p>
-
                 
                 <div id="commentForm">
+                    <p>Fill in the form to post your comments. Let us know how we can improve!</p>
                     <p>Name: 
                         <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldNameFB" runat="server" ControlToValidate="txtName" ErrorMessage="*" Font-Bold="True" ForeColor="Red" ValidationGroup="ValidateFeedback">*</asp:RequiredFieldValidator>
                     </p>
                     <textarea runat="server" id="txtComments" class="commentTextarea" rows="3" placeholder="Leave some feedback!"></textarea>
                     
                     <p class="post"><span class="charCount">200</span>
-                        <asp:Button ID="btnPost" runat="server" CssClass="btnPost" Text="Post" OnClick="btnPost_Click" />
+                        <asp:Button ID="btnPost" runat="server" CssClass="btnPost" Text="Post" OnClick="btnPost_Click" ValidationGroup="ValidateFeedback" />
                     </p>
                     <div class="clearFloat"> </div>
                 </div>
