@@ -7,13 +7,17 @@ This is a project I am working on to expand and better develop my ASP.net/C# ski
  far a user can log in and view their information. Cookies are created and used to handle any data retrieved from the database. This project is 
  definitely in its early stages! 
  
+####Features
+* User can log in
+* Account page displays user's information retrieved from the database
+* Feedback page allows users to leave comments! Comments are stored and read from a XML file **[MOST CURRENT]**
+ 
 ####WIP
  * Allow new users to register for an account.
  * Allow existing users to update their password and/or retrieve their password.
  * Add content to the About, Contact, and Feedback pages.
   - About: General description of the purpose of the website
   - Contact: Display contact information
-  - Feedback: Allow users to post comments (This will most likely use JQuery)
 * Format elements to make the site look "prettier" and more appealing to the eye!
   
 ####Screenshots
@@ -21,3 +25,4 @@ This is a project I am working on to expand and better develop my ASP.net/C# ski
 ![alt tag](https://lh3.googleusercontent.com/a9218scPcidHBrSWTBVU0vPTiCp5sFu6zRuSj4HPG9k=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/cpMSyKO5iyR0Xc9OnuwQeBvtuJkRFxuco0H4YLRJKWU=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/YbH6Gc2QpJA06GAdmD-gfTIW2IhKlq8OtjflLcA-Aps=w863-h934-no)
+![alt tag](https://lh3.googleusercontent.com/xW1uIJhVbEl8Lh1wDI0phPuCyjrqxhfZUXBY4he-Zr8=w863-h934-no)
