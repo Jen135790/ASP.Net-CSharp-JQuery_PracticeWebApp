@@ -7,10 +7,10 @@ This is a project I am working on to expand and better develop my ASP.net/C# ski
  definitely in its early stages! 
  
 ####Features
-* User can log in
-* Account page displays user's information retrieved from the database
-* Feedback page allows users to leave comments! Comments are stored and read from a XML file
-* Contact page allows users to email any concerns, problems, or suggestions. Emails are stored in a ContactMessages table in the database **[MOST CURRENT]**
+* User can log in.
+* Account page displays user's information retrieved from the database.
+* Feedback page allows users to leave comments! Comments are stored and read from a XML file. Name textbox uses a required field validator while the comment box uses JQuery to make sure the user doesn't submit a message.
+* Contact page allows users to email any concerns, problems, or suggestions. Emails are stored in a ContactMessages table in the database. Textboxes have required field validators and the email textbox uses a regular expression validator! **[MOST CURRENT]**
  
 ####WIP
  * Allow new users to register for an account.
