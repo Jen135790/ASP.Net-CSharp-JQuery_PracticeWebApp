@@ -33,7 +33,30 @@
 			<!-- Content -->
 			<div class="content">
 			    <h1>Feedback</h1>
-                <p>[THIS IS THE FEEDBACK PAGE!!!]</p>
+                <p>Fill in the form to post your comments. Let us know how we can improve!</p>
+
+                
+                <div id="commentForm">
+                    <p>Name: 
+                        <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+                    </p>
+                    <textarea runat="server" id="txtComments" class="commentTextarea" rows="3" placeholder="Leave some feedback!"></textarea>
+                    
+                    <p class="post"><span class="charCount">200</span>
+                        <asp:Button ID="btnPost" runat="server" CssClass="btnPost" Text="Post" OnClick="btnPost_Click" />
+                    </p>
+                    <div class="clearFloat"> </div>
+                </div>
+
+                <asp:XmlDataSource ID="XmlDataSource1" runat="server" datafile="js/feedback.xml"></asp:XmlDataSource>
+                <asp:ListView ID="ListView1" runat="server" DataSourceID="XmlDataSource1">
+                <ItemTemplate>
+                    <div class="comments">
+                    <h4><%#XPath("NAME")%></h4>
+                    <p><%#XPath("COMMENT")%></p>
+                    </div>
+                </ItemTemplate>
+                </asp:ListView>
 				
 			</div>
 			<!-- End CONTENT -->
@@ -53,5 +76,7 @@
 
     <!-- SCRIPTS -->
     <script src="js/displayHeaderFooter.js"></script>
+    <script src="js/feedback.js"></script>
+
 </body>
 </html>

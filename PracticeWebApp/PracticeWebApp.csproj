@@ -76,6 +76,8 @@
     <Content Include="ForgotPass.aspx" />
     <Content Include="Global.asax" />
     <Content Include="js\displayHeaderFooter.js" />
+    <Content Include="js\feedback.js" />
+    <Content Include="js\feedback.xml" />
     <Content Include="Practice.aspx" />
     <Content Include="css\style.css" />
     <Content Include="Register.aspx" />

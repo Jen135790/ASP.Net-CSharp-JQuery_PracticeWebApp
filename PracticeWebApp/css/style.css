@@ -78,6 +78,22 @@ nav a, a:visited{
 	text-decoration: none;
 }
 
+/* CONTENT */
+.bodyContainer{
+	margin-top: 0;
+	padding-top: 0;
+	background-color: #4D658D;
+}
+
+
+.content{
+	padding: 10px 30px;
+	min-height: 400px;
+	font-family: Lucida Sans Unicode;
+	background-color: #FFF;
+}
+
+
 #loginForm {
     background-color: #7689A9;
     border-radius: 10px;
@@ -108,19 +124,67 @@ nav a, a:visited{
     text-align: center;
 }
 
-/* CONTENT */
-.bodyContainer{
-	margin-top: 0;
-	padding-top: 0;
-	background-color: #4D658D;
+#commentForm {
+    max-width: 80%;
+    margin: 25px auto;
 }
 
+.post {
+    float: right;
+    font-size: small;
+}
 
-.content{
-	padding: 10px 30px;
-	min-height: 400px;
-	font-family: Lucida Sans Unicode;
-	background-color: #FFF;
+.commentTextarea {
+    min-width: 100%;
+    font-family: Lucida Sans Unicode;
+    font-size: medium;
+}
+#ListView1 {
+    margin-bottom: 30px;
+}
+
+.btnPost {
+    border: 2px solid #4D658D;
+    border-radius: 5px;
+    background-color: #4D658D;
+    color: #FFF;
+    padding: 5px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: medium;
+}
+
+.comments {
+    border: 3px groove #808080;
+    border-radius: 10px;
+    padding: 0 20px;
+    margin: 10px auto;
+    max-width: 70%;
+}
+
+.comments h4 {
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.comments p {
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.likes {
+    float: right;
+    margin-right: 30px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: default;
+    background-color: #808080;
+    border: 2px solid #808080;
+    border-radius: 5px;
 }
 
 footer{
