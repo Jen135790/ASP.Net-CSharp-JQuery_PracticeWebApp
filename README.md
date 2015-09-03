@@ -25,4 +25,4 @@ This is a project I am working on to expand and better develop my ASP.net/C# ski
 ![alt tag](https://lh3.googleusercontent.com/a9218scPcidHBrSWTBVU0vPTiCp5sFu6zRuSj4HPG9k=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/cpMSyKO5iyR0Xc9OnuwQeBvtuJkRFxuco0H4YLRJKWU=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/YbH6Gc2QpJA06GAdmD-gfTIW2IhKlq8OtjflLcA-Aps=w863-h934-no)
-![alt tag](https://lh3.googleusercontent.com/xW1uIJhVbEl8Lh1wDI0phPuCyjrqxhfZUXBY4he-Zr8=w203-h220-no)
+![alt tag](https://lh3.googleusercontent.com/xW1uIJhVbEl8Lh1wDI0phPuCyjrqxhfZUXBY4he-Zr8=w863-h934-no)
