@@ -197,6 +197,21 @@ nav a, nav a:visited{
     border-radius: 5px;
 }
 
+#registerForm {
+    margin-bottom: 30px;
+}
+
+.registerInput {
+    margin: 5px 10px;
+    min-width: 50%;
+    font-family: Lucida Sans Unicode;
+    font-size: medium;
+}
+
+#forgotPassForm {
+    margin-bottom: 30px;
+}
+
 footer{
 	display: block;
 	background-color: #4D658D;
