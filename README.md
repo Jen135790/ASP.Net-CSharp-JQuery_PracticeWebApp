@@ -12,7 +12,9 @@ This is a project I am working on to expand and better develop my ASP.net/C# ski
 * Feedback page allows users to leave comments! Comments are stored and read from a XML file. Name textbox uses a required field validator while the comment box uses JQuery to make sure the user doesn't submit a message.
 * Contact page allows users to email any concerns, problems, or suggestions. Emails are stored in a ContactMessages table in the database. Textboxes have required field validators and the email textbox uses a regular expression validator!
 * Registration page allows new users to register for an account. Registration form validates all textboxes, checks if a user name already exists, and inserts the new information into the database. 
-* Forgot Password page allows existing users to change their password only if the user name and email combination exists in the database! **[MOST CURRENT]**
+* Forgot Password page allows existing users to change their password only if the user name and email combination exists in the database!
+* Users can now edit their profile information (password, name, and email)
+* Users can request and send money from their account to a target email. All fields are validated. **[MOST CURRENT]**
  
 ####WIP
  * Allow existing users to update their password in their account page.
@@ -22,9 +24,10 @@ This is a project I am working on to expand and better develop my ASP.net/C# ski
   
 ####Screenshots
 ![alt tag](https://lh3.googleusercontent.com/lt6wXkHoQsCPV2FzVZlDjo1u95xUpEcB0nMElG1HJeI=w863-h934-no)
-![alt tag](https://lh3.googleusercontent.com/a9218scPcidHBrSWTBVU0vPTiCp5sFu6zRuSj4HPG9k=w863-h934-no)
+![alt tag](https://lh3.googleusercontent.com/nlLLQdxgIvE1AClM--QxYcUsGZWtEm0nlHoiifxBYTg0D7g3NwWY01UsddEi847vLfQiIClAVAoGQQSCsZs1rO4nLrkwNH8bHG-lIIZNyi3ZZe-WVgTOg3SGS7ZI8PH2QSf4IowYTvzulcM5_QpTt9cJrgAVrANp-xiqUTMiEkkXZvzX63gZJzbPkxWYiQx6vmgSMtVqHz1dsPjcUIDIluHHXm8ohED0Qzh4-fiaHG_mySeHqT7rPYCXeC5OWsCiYhS9am0DQu22kVavYBkDa0vDxr8eBXSu8vTGRJPjKzYvQI9Sxzl6AhGM4JuYo_oVWKAdy2PVujeNgoPrjvzLutbHEfInNDt5UvsoEahtZP4j7j8PI6Ryb2EVq2u4ZNd9VX9S8wzd45DrkIm_-5kaS_LtNQ_8j3MANVC-N0ZHXEQr8HwdM5f-2qNsGkzCcRABhEqyUlynFZvJM2l-thiavoi8MpjFt2JL5ViumfyBBEH1WaOnIhcFHkdp6XR3BHtiFNflcoHUQe-PnqgbfySwjM8=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/cpMSyKO5iyR0Xc9OnuwQeBvtuJkRFxuco0H4YLRJKWU=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/YbH6Gc2QpJA06GAdmD-gfTIW2IhKlq8OtjflLcA-Aps=w863-h934-no)
+![alt tag](https://lh3.googleusercontent.com/m6E591IbQD8CoHLuHdDiJej2Dc1lSc2jYhDY28f75EQ71sPay2r-Vz0rw26VR5DVoEabs3ZdE4sFe7Y8uwTFBKUi6WeHKOnbSilVe0RQ4Jd2TAJBUkFvrusvGfD9_t4LrahIHzNeobXbNj0SkFRqRJKGaSS6wV4dQSlgDSMoS5j_U1zZAkGsnicKY0k9P3ZHBtNXD6E83J80Iq5Z5HA16G7V4OS5k41jfhnnHnldU_THUoIy-B6tkbTKqYLADQIaKt4i46lJvdFnUV0m4V0IvnJ8nZdQCsp2rPcDrAY5p7ZGDWB9q3sIP5_LJFVyhG9DIyrST57k7EYG3hjwwl9WJfsO5obtzR93o-FhIU5nIMRErPKJWwARPdQIUzYcTaOmLNekfwAylsZzbKADtox-8TsSHIEcr7fdlw9RX3-l2ih58J0s8LrwVm893P526-PF9gDkUTRKemLx48zVSLRQDupEOsSP5ZDHPa8cIxg7aclQ1IwGrDLqPbgU-hXyJqIlAoX6ISSPMDdfzgLP-_bvh4Q=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/xW1uIJhVbEl8Lh1wDI0phPuCyjrqxhfZUXBY4he-Zr8=w863-h934-no)
 ![alt tag](https://lh3.googleusercontent.com/wbMsWLcUBz89qbPV0p5sWpWlkjAbjU81ZVCbR5glsiE_aSPTSYe3e5VRMqb86Fn8TUKsuSOpOoW-Q73vX91oVRtOGisZ6MhKgUeWPNdNW-gkTunIk2VLlk85C_kYkXAOi2fLfF3vQFGFrsqm4-LPbOBOVi4edhoLRg4RW1jXgTvTXcRAN28uBM0QF8SXeS0jqqW-F76Ot3aV_Wk8HaK3I7eKacsME2i_gEGZ1xUzCuzwavkCf29ZJOpJFDNQNMjDfZaGBnofjGHKsG3xVxRlB73SrQ0JkPcrhLHtoZcXtVdfPiKuoEfhSp_xflzhRYy2Z-Dea7bNUNNqp2OsYP321u4OMMfbU8Hrf2WiBXtUKLCsLhkxGUWG-KfEsYUdH_BaoQZxzwz80-jjkVqHELjOPZgh_z_9aiNgEjj8aFlor-T749IgjC0AkVNx_NkJGxqEzA_7QTj-thKIDoe4WqLPekWLfhaLYBgZ4KOvhn2xL3FDwvqUR6G-fDTNtBOLAS8W1z7qWpEhge3MQSbUwOD6BjI=w882-h955-no)
 ![alt tag](https://lh3.googleusercontent.com/eFXrZreiOCA8fIcaPAw2XdpNHLOTBKW6p1kjyH4v9Ixf5S88dpp4VZjp6JKmmeQ77H41X-0aKF0lph6JKefAurQ84AY_NufKwb66Ot7KwxWChQi8Zz2Pp4KOB4S9fDVysaVC_gQMDnynBlBYP4iCzcDmtkfMHfrwgjbqebCew4vX7WmDUEZDU9fWwJIpDf9MSQROujaeZybsFLSoiwx9HlzM3GHUfwbLPkIvL4MzVK8g7Y7Mkr42iuBbirgGo0zlLBjCUurBPTFj_uEMVaYJz-KNJkM0JkFTA8qNVfAFkvHEOzSc6VVpk-rcvwk64Iiin4pY7uzALzGkuyO8N21pWz_cw3lndfSYHJlpGr7C0gdgD9YjJA8JrxFztttgeNcAOEo0ND9vWOCg8zJ0dNNXO0w5oGVm_BUNydoVvZWVrpgO9POOuK98sJxH-WxJiwygDub7WBS1j12u1_4nLvLxdYuh8x13HAwOkLiaeN7WD1jE8vzk4rKucYXcXGTwxjiN6vEnghsfJLHAgdVwb9znKrc=w882-h955-no)
