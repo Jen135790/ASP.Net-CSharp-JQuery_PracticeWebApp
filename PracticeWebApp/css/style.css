@@ -82,7 +82,7 @@ nav a, nav a:visited{
 .bodyContainer{
 	margin-top: 0;
 	padding-top: 0;
-	background-color: #4D658D;
+	background-color: #FFF;
 }
 
 
@@ -93,6 +93,29 @@ nav a, nav a:visited{
 	background-color: #FFF;
 }
 
+.aboutContent {
+    background-color: #FFF;
+    background-image: url("../img/aboutOcean.jpg");
+    background-repeat: no-repeat;
+    border: 1px solid #FFF;
+    border-radius: 20px;
+    padding: 10px 30px;
+    min-height: 400px;
+    font-family: Lucida Sans Unicode;
+}
+
+.aboutHeader {
+    background-color: #FFF;
+    opacity: 0.75;
+    max-width: 45%;
+    padding: 10px;
+    float: right;
+}
+
+#homeImg {
+    float: left;
+    margin-right: 20px;
+}
 
 #loginForm {
     background-color: #7689A9;

@@ -31,9 +31,12 @@
 		
 		<!-- Content Container -->
 			<!-- Content -->
-			<div class="content">
-			    <h1>About</h1>
-                <p>[THIS IS THE ABOUT PAGE!!!]</p>
+			<div class="aboutContent">
+                <div class="aboutHeader">
+                    <h1>About</h1>
+                    <p>Sea Shark Bank is a national banking business that strives on customer satisfaction. We offer a few simple services that are simple yet satifying. Customers can always leave feedback and comments on our feedback page. </p>
+                </div>
+			    
 				
 			</div>
 			<!-- End CONTENT -->

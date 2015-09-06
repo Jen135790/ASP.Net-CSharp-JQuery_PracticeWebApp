@@ -42,9 +42,18 @@
 			    </div>
 			    <h1>Home Page</h1>
                 
+                <p>Don't take the bait that other banking businesses offer, it's time to turn the tide on the way you manage your money. Swimmingly create and manage your account with us!</p>
+                <div class="clearFloat"> </div>
+                <br />
+                <img id="homeImg" src="img/creditcardsample.png" width="400" height="300" alt="Sea Shark Card" />
+
+                <p>Register for an account and apply for your very own Sea Shark Bank credit card.</p>
+                <ul>
+                    <li>No Annual Fee</li>
+                    <li>0% intro APR for 24 months</li>
+                    <li>APR will be 10% after intro months</li>
+                </ul>
                 
-                <p>[THIS IS THE HOME PAGE! PLEASE LOG IN!!!] This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! This is just filler text to test the layout of this paragraph in the content dev!!! </p>
-				
 			</div>
 			<!-- End CONTENT -->
 		
