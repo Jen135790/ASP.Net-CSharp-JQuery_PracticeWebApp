@@ -15,7 +15,7 @@ This is a project that was meant to expand and better develop my ASP.net/C# skil
 * Users can now edit their profile information (password, name, and email)
 * Users can request and send money from their account to a target email. All fields are validated.
 
-Special thanks to Kellis for designing the fake Sea Shark Bank credit card!
+*Special thanks to Kellis for designing the fake Sea Shark Bank credit card!*
   
 ####Screenshots
 ![alt tag](https://raw.githubusercontent.com/Jen135790/ASP.Net-CSharp-JQuery_PracticeWebApp/master/screenshots/PracticeWebApp_Home.PNG)
