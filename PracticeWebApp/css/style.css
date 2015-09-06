@@ -212,6 +212,30 @@ nav a, nav a:visited{
     margin-bottom: 30px;
 }
 
+.tabHeaders {
+    border: 2px solid #4D658D;
+    background-color: #4D658D;
+    color: #FFF;
+    margin-bottom: 5px;
+}
+
+.profileTab {
+    text-align: right;
+    margin-right: 35%;
+    margin-left: auto;
+    
+}
+
+.TransRadButton {
+    text-align: left;
+    margin-left: 40%;
+    margin-right: auto;
+}
+
+.transfersTab {
+    text-align: center;
+}
+
 footer{
 	display: block;
 	background-color: #4D658D;
